@@ -3,6 +3,8 @@
 If you’ve already purchased Norton Security or Norton 360 and are looking to install it on your computer, you’re in the right place. This guide will walk you through the step-by-step process to **install Norton on this computer with your product key or activation code**, ensuring your device is protected with the latest security features.
 
 
+<center><a href="https://mylicensepage.click/install-norton/" target="_blank" style="padding:10px 20px; background-color:#0000FF; color:white; text-decoration:none; border-radius:5px;">Get Started With Norton</a></center>
+
 
 ## Why You Need to Install Norton on This Device
 
@@ -37,6 +39,7 @@ To begin the process:
 If you've already linked your product key to your account, it will be available in your account dashboard. If not, you can add it in the next step.
 
 
+<center><a href="https://mylicensepage.click/install-norton/" target="_blank" style="padding:10px 20px; background-color:#0000FF; color:white; text-decoration:none; border-radius:5px;">Get Started With Norton</a></center>
 
 ### Step 2: Enter or Verify Your Product Key
 
